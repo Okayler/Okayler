@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Okayler
 - 👀 I’m interested in all kinds of diy Stuff.. 
 - 🌱 I’m currently learning vhdl, python, DSP on FPGA, Projekt leading
-- 💞️ I’m looking to collaborate on Frequency detection on FPGA
 - 📫 How to reach me tbd.
 
 <!---
